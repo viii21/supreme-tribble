@@ -6,7 +6,7 @@ $(document).ready(function () {
 
     console.log("user clicked dogeOne 2");
     $("#outputMsg").text("You Lose, you Stupid Loser");
-    $("#outputDiv").toggle();
+    $("#outputDiv").toggle().fadeIn(5000);
   });
 
   $("#dogeTwo").click(function () {
