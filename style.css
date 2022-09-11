@@ -1,3 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Miniver&display=swap");
+
+body {
+  background-color: beige;
+}
+
+h3 {
+  font-family: "Miniver", cursive;
+}
+
+.navbar-brand {
+  font-family: "Miniver", cursive;
+}
+
 #outputDiv {
   display: none;
 }
